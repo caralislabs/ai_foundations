@@ -6,6 +6,8 @@ Rather than relying on external APIs, the weather data is mocked using a simple 
 
 ---
 
+![diagram](resources/Minimal%20MCP%20Demo.png)
+
 ## 🚀 What This Demo Covers
 
 - MCP **Client**: Detects intent and enriches prompts.
